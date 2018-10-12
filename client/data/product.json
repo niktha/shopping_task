@@ -1,0 +1,233 @@
+[
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Harry Potter Chamber of Secrets",
+			"bookId": "1",
+			"bookImage": "/assets/harry-1.jpg",
+			"bookDescription": "Harry Potter Chamber of Secrets",
+			"bookPrice": 10,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Harry Potter Order of Phoenix",
+			"bookId": "2",
+			"bookImage": "/assets/harry-2.jpg",
+			"bookDescription": "Harry Potter Order of Phoenix",
+			"bookPrice": 15,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Harry Potter Deadly Hollows",
+			"bookId": "3",
+			"bookImage": "/assets/harry-3.jpg",
+			"bookDescription": "Harry Potter Deadly Hollows",
+			"bookPrice": 25,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Harry Potter Half Blood Prince",
+			"bookId": "4",
+			"bookImage": "/assets/harry-4.jpg",
+			"bookDescription": "Harry Potter Half Blood Prince",
+			"bookPrice": 14,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Harry Potter Philosopher's Stone",
+			"bookId": "5",
+			"bookImage": "/assets/harry-5.jpg",
+			"bookDescription": "Harry Potter Philosopher's Stone",
+			"bookPrice": 30,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Harry Potter and the Prisoner of Azkaban",
+			"bookId": "6",
+			"bookImage": "/assets/harry-6.jpeg",
+			"bookDescription": "Harry Potter and the Prisoner of Azkaban",
+			"bookPrice": 40,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Harry Potter and the Goblet of Fire",
+			"bookId": "7",
+			"bookImage": "/assets/harry-7.jpg",
+			"bookDescription": "Harry Potter and the Goblet of Fire",
+			"bookPrice": 80,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Twilight",
+			"bookId": "8",
+			"bookImage": "/assets/twilight.jpg",
+			"bookDescription": "Twilight in forks The saga of Real Town",
+			"bookPrice": 120,
+			"bookTrending": "",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "The Presentation Secrets of Steve Jobs",
+			"bookId": "9",
+			"bookImage": "/assets/stevejobs.jpg",
+			"bookDescription": "Secrets of Steve Jobs",
+			"bookPrice": 110,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Hobbit",
+			"bookId": "10",
+			"bookImage": "/assets/hobbit.jpeg",
+			"bookDescription": "Hobbit Life",
+			"bookPrice": 45,
+			"bookTrending": "",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Lord of The Rings Two Towers",
+			"bookId": "11",
+			"bookImage": "/assets/lord-2.jpg",
+			"bookDescription": "Lord of The Rings Two Towers",
+			"bookPrice": 90,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Lord of The Rings",
+			"bookId": "12",
+			"bookImage": "/assets/lord-1.jpg",
+			"bookDescription": "Lord of The Rings",
+			"bookPrice": 120,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Lord of The Rings and The Return of the King",
+			"bookId": "13",
+			"bookImage": "/assets/lord-3.jpg",
+			"bookDescription": "Lord of The Rings and The Return of the King",
+			"bookPrice": 220,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "MS DHONI",
+			"bookId": "14",
+			"bookImage": "/assets/dhoni.jpg",
+			"bookDescription": "MSDhoni Secret to Success",
+			"bookPrice": 777,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Clive Cussler",
+			"bookId": "15",
+			"bookImage": "/assets/clive.jpg",
+			"bookDescription": "Clive Cussler The Sea Hunters",
+			"bookPrice": 800,
+			"bookTrending": "",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "The Return and Legacy of Secrets",
+			"bookId": "16",
+			"bookImage": "/assets/return.jpg",
+			"bookDescription": "The Return and Legacy of Secrets",
+			"bookPrice": 987,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Treasure Island",
+			"bookId": "17",
+			"bookImage": "/assets/treasure.jpg",
+			"bookDescription": "Treasure Island Gold",
+			"bookPrice": 435,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Rahul Dravid",
+			"bookId": "18",
+			"bookImage": "/assets/dravid.jpg",
+			"bookDescription": "The Untold Story of the Wall",
+			"bookPrice": 500,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+},
+{
+	"mainCls": "w3-row",
+	"bookData": [
+		{
+			"bookName": "Winston Churchill",
+			"bookId": "19",
+			"bookImage": "/assets/winston.jpg",
+			"bookDescription": "Winston Churchill Inspiration",
+			"bookPrice": 300,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		},
+		{
+			"bookName": "Spartans 300",
+			"bookId": "20",
+			"bookImage": "/assets/300.jpg",
+			"bookDescription": "Spartans Hell in Dine",
+			"bookPrice": 200,
+			"bookTrending": "yes",
+			"addCls": "w3-col  m6 l6 w3-center"
+		}
+	]
+}
+
+]
